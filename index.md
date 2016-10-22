@@ -21,7 +21,7 @@
 ## Finance
 
 
-*  Portefeuille
+*  [Présentation Bourse](/wiki/bourse)
 
 *  [Spéculer](/wiki/speculation)
 
