@@ -10,7 +10,7 @@ Plafond de trésorerie de 2M.
 
 Protection contre les attaques de prise de contrôle et de trésorerie.
 
-Nombre de points bots maximum par pays (pb/pays) : 1 000.
+Nombre de points bots maximum par pays (PB/pays) : 1 000.
 
 Bots accessibles : Argon, Boron, Carbon.
 
