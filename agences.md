@@ -7,7 +7,7 @@ Il y a 2 types d'agences :
 
 *  Les agences indépendantes : elles n'appartiennent à aucun joueur et sont gérées par le jeu. Vous pouvez les acheter pour vous y installer
 
-*  Les agences de joueur : elles appartiennent déjà à un joueur et vous ne pouvez pas les acheter via l'onglet des régions. Vous pouvez tenter de les [conquérir](/wiki/conquete) ou de l'acheter (si elle est disponible à la vente) via la [plateforme d'échange](/plateforme_echange)
+*  Les agences de joueur : elles appartiennent déjà à un joueur et vous ne pouvez pas les acheter via l'onglet des régions. Vous pouvez tenter de les [conquérir](/wiki/conquete) ou de l'acheter (si elle est disponible à la vente) via la [plateforme d'échange](/plateforme_echange) (actuellement pas en fonction) 
 
 Une agence est administrée par des [salariés](/wiki/salaries).
 
@@ -15,11 +15,16 @@ Une agence est administrée par des [salariés](/wiki/salaries).
 
 Une agence peut être achetée.
 
-Une agence peut être conquise par le biais [d'attaques](/wiki/attaques). Attention, comme le précise la page [Filiales](/wiki/filiales), vous ne pourrez améliorer une agence dans un pays dot vous n'avez pas la licence.
+Une agence peut être conquise par le biais [d'attaques](/wiki/attaques). Attention, comme le précise la page [Filiales](/wiki/filiales), vous ne pourrez améliorer une agence dans un pays dont vous n'avez pas la licence.
 
-## Revenus, améliorations & achat
+## Achat
+
+Le coût d'achat des agences est progressif. Chaque achat d'agence fait progresser le prix d'achat des agences suivantes de 10%.
+
+## Revenus et améliorations
 
 Bien que le revenus d'une agence dépende de plusieurs critères, vous pouvez prendre en considération les revenus suivants, calculés avec un rendement de 100% dans le pays.
+
 
  | Niveau | Revenu brut journalier | 
  | ------ | ---------------------- | 
@@ -47,40 +52,26 @@ Le coût des améliorations suit la progression suivante :
  | 35     | 2803032                        | 1023                                         | 
  | 40     | 4840049                        | 2146                                         | 
 
-## Licences sur le serveur 5
+## Licence d'exploitation
 
-Il y a deux types licence :
- - La licence de contrôle
- - La licence d’achat
+La licence d’exploitation permet toutes les actions possibles (amélioration ou achat d'agences) dans le dont on possède la licence.  La première licence est offert et les suivantes doivent etre achetées.
 
-**La Licence de Contrôle :** Cette licence se gagne en prenant le contrôle d’une agence dans un pays ou l’on à pas de licence auparavant.
-
-*Ex : le pays d’origine de ma banque est la France où je peux acheter de agences. J’attaque une agence en Angleterre et en prend le contrôle, je gagne par la même occasion une licence de contrôle en Angleterre*
-
-Les licences de contrôle ne permettent pas d'améliorer ou d'acheter d'agences dans le pays, mais elles peuvent être transformées en licence d'achat.
-
- **La Licence d’Achat :** La licence d’Achat permet toutes les actions possibles (amélioration ou d'achat d'agences) dans le pays d’origine.  Comme son nom l’indique cette licence s’achète mais sous certaines conditions :
-
- - Vous avez acquit une licence de contrôle que vous pouvez transformer en licence d’achat moyennant finance
- - Votre alliance contrôle le pays où vous voulez vous implanter et vous pouvez l’acheter directement.
-
-**Le Nombre de licence possédée : **
-
-Quel que soit le type de licence vous ne pouvez avoir qu’un nombre de licence égal à votre niveau :
+**Le Nombre de licences possibles : **
 
 Niv 1 : 1 licence (celle de votre pays d’origine)
 
-Niv 2 : 2 licences (celle de votre pays d’origine + une)
+Niv 3 : 2 licences (celle de votre pays d’origine + une)
 
-Niv 3 : 3 licences (celle de votre pays d’origine + deux)
+Niv 4 : 3 licences (celle de votre pays d'origine + deux)
+
+Niv 5 et suivants : une licence supplémentaire par niveau
 
 
 **Le coût des licences **
 
+La première licence (celle du pays d'origine) est gratuite.
 
-*  Les licences de contrôle sont gratuites.
-
-*  Les licences d’achat : Celle de votre pays d’origine vous est donnée. La seconde vous coûtera 8 millions. Le prix des licences suivantes sera mltiplié par 5. Ainsi l'achat de la 3ème licence vous coutera 40 Millions, la troisième 200 millions.
+Le deuxième licence coûte 10M et le prix des licences suivantes va ensuite croissant.
 
 
 
