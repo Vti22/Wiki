@@ -52,11 +52,23 @@ Le coût des améliorations suit la progression suivante :
  | 35     | 2803032                        | 1023                                         | 
  | 40     | 4840049                        | 2146                                         | 
 
-## Licence d'exploitation
+## Licences
 
-La licence d’exploitation permet toutes les actions possibles (amélioration ou achat d'agences) dans le dont on possède la licence.  La première licence est offert et les suivantes doivent etre achetées.
+-Il y a deux types de licences :
+- - La licence de contrôle
+- - La licence d’achat
+-
+-**La licence de Contrôle :** Cette licence se gagne en prenant le contrôle d’une agence dans un pays ou l’on à pas de licence auparavant.
 
-**Le Nombre de licences possibles : **
+-*Ex : le pays d’origine de ma banque est la France où je peux acheter de agences. J’attaque une agence en Angleterre et en prend le contrôle, je gagne par la même occasion une licence de contrôle en Angleterre*
+ 
+-Les licences de contrôle ne permettent pas d'améliorer ou d'acheter d'agences dans le pays. Elles permettent d'y produire et détenir des bots pour y organiser la défense ou effectuer des attaques et donnent également accès au marché financier du pays s'il en dispose (pour peu que le joueur ait le niveau requis).
+
+-**La licence d’exploitation :** Cette licence permet toutes les actions possibles, y compris l'amélioration et l'achat d'agences dans le pays dont on possède la licence.
+
+La première licence d'exploitation est offerte et les suivantes doivent etre achetées.
+
+**Le Nombre de licences d'exploitation possibles : **
 
 Niv 1 : 1 licence (celle de votre pays d’origine)
 
@@ -67,7 +79,7 @@ Niv 4 : 3 licences (celle de votre pays d'origine + deux)
 Niv 5 et suivants : une licence supplémentaire par niveau
 
 
-**Le coût des licences **
+**Le coût des licences d'exploitation **
 
 La première licence (celle du pays d'origine) est gratuite.
 
